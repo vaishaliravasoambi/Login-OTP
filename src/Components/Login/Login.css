@@ -1,0 +1,54 @@
+.box {
+  width: 30%;
+  height: 30%;
+  justify-items: center;
+  justify-content: center;
+  padding-left: 35%;
+  padding-right: 30%;
+  padding-top: 10%;
+}
+.border {
+  background-color: #4272f5;
+  width: 350px;
+  height: 30px;
+  color: white;
+  justify-items: center;
+  justify-content: center;
+
+  font-family: "Times New Roman", Times, serif;
+  font-size: 25px;
+}
+
+h3 {
+  font-size: 20px;
+  font-family: "Times New Roman", Times, serif;
+}
+
+button {
+  width: 200px;
+  height: 30px;
+  background-color: #4272f5;
+  color: white;
+
+  /* border-radius: 20px; */
+}
+
+/* style  input  box */
+
+.wrap {
+  display: flex;
+  flex-direction: row;
+}
+.input {
+  padding-top: 14%;
+  padding-bottom: 3%;
+  padding-left: 120px;
+  width: 15px;
+  border-radius: 5px;
+}
+
+.drop-down {
+  width: 20px;
+  padding-top: 5%;
+  padding-bottom: 3%;
+}
